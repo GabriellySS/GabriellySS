@@ -8,7 +8,7 @@
 💻 Atualmente, estou cursando Ciência da Computação, mergulhando de cabeça na área tech! A ideia é pegar minha bagagem criativa do design e misturar com programação pra criar coisas inovadoras e cheias de funcionalidade.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=GabriellySS&theme=transparent&card_width=320"/>
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=GabriellySS&theme=transparent&card_width=350"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabriellySS&theme=transparent&layout=compact&langs_count=8&card_width=320"/>
