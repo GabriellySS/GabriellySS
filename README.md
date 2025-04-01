@@ -1,4 +1,4 @@
-<img src="./src/img-readme.svg" min-width="100px" max-width="400px" width="280px" align="right">
+<img src="./src/img-readme.svg" min-width="100px" max-width="400px" width="250px" align="right">
 
 ### Olá, eu sou a Gabrielly!
 
