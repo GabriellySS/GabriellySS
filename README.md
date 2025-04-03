@@ -10,6 +10,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=GabriellySS&theme=transparent&card_width=350"/>
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabriellySS&theme=transparent&layout=compact&langs_count=8&card_width=340"/>
 </a>
