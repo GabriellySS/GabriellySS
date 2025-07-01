@@ -20,7 +20,8 @@
 ---
 
 ### 🎓 Certificações e Cursos
-<a href="https://www.credly.com/badges/6657a3f6-3656-472f-abcb-c9458bbc6966/public_url"><img src="src/github-foundations.png"></a>
+<a href="https://www.credly.com/badges/6657a3f6-3656-472f-abcb-c9458bbc6966/public_url"><img src="src/github-foundations.png" height="100px"></a> 
+<a href="https://www.dio.me/users/gabriellysantos"><img src="https://assets.dio.me/PXTHzpYRJjOb5iSXboRqYrTpSTGIFVuStrwRtsTpVUc/f:webp/h:120/q:80/L3RyYWNrcy82MmVkMWYxZC04ZDc2LTRiYmMtOTA1Zi1lNzNkMjBjYjgyZjUucG5n" height="100px"></a>
 
 ---
 
