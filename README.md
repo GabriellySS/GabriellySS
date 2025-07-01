@@ -20,7 +20,7 @@
 ---
 
 ### 🎓 Certificações e Cursos
-<img src="src/github-foundations.png">
+<a href="https://www.credly.com/badges/6657a3f6-3656-472f-abcb-c9458bbc6966/public_url"><img src="src/github-foundations.png"></a>
 
 ---
 
