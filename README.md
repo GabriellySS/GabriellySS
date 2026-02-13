@@ -23,12 +23,3 @@
 <a href="https://www.credly.com/badges/6657a3f6-3656-472f-abcb-c9458bbc6966/public_url"><img src="src/github-foundations.png" height="100px"></a> 
 <a href="https://www.dio.me/certificate/BCUZWGVU/share"><img src="https://assets.dio.me/rkO44OeBRslqd4_xCfrfU81zuulhXYMCMGqL0RvsSOk/f:webp/h:120/q:80/L3RyYWNrcy9iZGM3Y2MxOS1jNzk2LTQ2YTItYjc2Ny1lOGJkYzIwMWZjYjgucG5n" height="100px"></a>
 <a href="https://www.dio.me/certificate/K0T8YRSA/share"><img src="https://assets.dio.me/PXTHzpYRJjOb5iSXboRqYrTpSTGIFVuStrwRtsTpVUc/f:webp/h:120/q:80/L3RyYWNrcy82MmVkMWYxZC04ZDc2LTRiYmMtOTA1Zi1lNzNkMjBjYjgyZjUucG5n" height="100px"></a>
-
----
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=GabriellySS&theme=transparent&card_width=350"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabriellySS&theme=transparent&layout=compact&langs_count=8&card_width=340"/>
-</a>
